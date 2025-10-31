@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  background-color: #121212;
+  color: white;
+  font-family: sans-serif;
+}
+img {
+  width: 48px;
+  height: auto;
+  vertical-align: middle;
+}
